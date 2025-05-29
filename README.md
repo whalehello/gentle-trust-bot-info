@@ -15,7 +15,7 @@ This is a lightweight research crawler designed to gather publicly available new
 - 🧪 **For Research Purposes**  
   The project is part of ongoing experiments in claim extraction, rhetorical framing, and media trust metrics. It is currently non-commercial and exploratory in nature, but we may need to find methods of sustainability in the future to keep it going.
 
- 🤝 **Supporting Journalism**  
+- 🤝 **Supporting Journalism**  
   We’re worried about the future of journalism. It’s a profession that matters—and it’s under strain. We want to do our part to protect it, and we hope to see publishers remain strong, trusted, and thriving.
   
 - 🔐 **Ethical Considerations**  
